@@ -1,0 +1,366 @@
+# depslib dependency file v1.0
+1401718714 source:c:\users\eter\desktop\alquerqe\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cctype>
+	"board.h"
+	"pawns.h"
+	"pawns.h"
+	"game_vs_player.h"
+	"game_vs_pc.h"
+
+1401698379 c:\users\eter\desktop\alquerqe\include\board.h
+	"pawns.h"
+	"cords.h"
+	<cmath>
+	<windows.h>
+	<vector>
+	<iostream>
+	<cstring>
+
+1401201731 c:\users\eter\desktop\alquerqe\include\pawn.h
+
+1401185106 source:c:\users\eter\desktop\alquerqe\src\pawn.cpp
+	"pawn.h"
+
+1401700220 source:c:\users\eter\desktop\alquerqe\src\board.cpp
+	"board.h"
+
+1401698379 c:\users\eter\desktop\alquerqe\include\pawns.h
+	"cords.h"
+	<iostream>
+
+1401442706 c:\users\eter\desktop\alquerqe\include\black_pawns.h
+	"board.h"
+	"pawns.h"
+	"cords.h"
+	<iostream>
+
+1401490033 source:c:\users\eter\desktop\alquerqe\src\black_pawns.cpp
+	<iostream>
+	"black_pawns.h"
+	"game.h"
+
+1401694658 source:c:\users\eter\desktop\alquerqe\src\pawns.cpp
+	"pawns.h"
+
+1401642880 source:c:\users\eter\desktop\alquerqe\src\game.cpp
+	"game.h"
+
+1401693890 c:\users\eter\desktop\alquerqe\include\game.h
+	"board.h"
+
+1401366924 source:c:\users\eter\desktop\alquerqe\src\white_pawns.cpp
+	"white_pawns.h"
+
+1401442840 c:\users\eter\desktop\alquerqe\include\white_pawns.h
+	"pawns.h"
+
+1401230564 source:e:\alquerqe\main.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"game.h"
+
+1401267542 e:\alquerqe\include\board.h
+	"pawns.h"
+	<windows.h>
+	<iostream>
+	<cstring>
+
+1401231282 e:\alquerqe\include\pawns.h
+	<iostream>
+
+1401230382 e:\alquerqe\include\black_pawns.h
+	"pawns.h"
+	<iostream>
+
+1401231248 e:\alquerqe\include\game.h
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"white_pawns.h"
+
+1401231428 e:\alquerqe\include\white_pawns.h
+	"pawns.h"
+
+1401231654 source:e:\alquerqe\src\black_pawns.cpp
+	<iostream>
+	"black_pawns.h"
+
+1401268638 source:e:\alquerqe\src\board.cpp
+	"board.h"
+
+1401267498 source:e:\alquerqe\src\game.cpp
+	"game.h"
+
+1401229618 source:e:\alquerqe\src\pawns.cpp
+	"pawns.h"
+
+1401231644 source:e:\alquerqe\src\white_pawns.cpp
+	"white_pawns.h"
+
+1401230564 source:g:\alquerqe\main.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"game.h"
+
+1401276396 g:\alquerqe\include\board.h
+	"pawns.h"
+	"white_pawns.h"
+	"black_pawns.h"
+	<windows.h>
+	<iostream>
+	<cstring>
+
+1401277458 g:\alquerqe\include\pawns.h
+	<iostream>
+
+1401277356 g:\alquerqe\include\black_pawns.h
+	"pawns.h"
+	<iostream>
+
+1401276074 g:\alquerqe\include\game.h
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"white_pawns.h"
+
+1401231428 g:\alquerqe\include\white_pawns.h
+	"pawns.h"
+
+1401231654 source:g:\alquerqe\src\black_pawns.cpp
+	<iostream>
+	"black_pawns.h"
+
+1401277680 source:g:\alquerqe\src\game.cpp
+	"game.h"
+
+1401229618 source:g:\alquerqe\src\pawns.cpp
+	"pawns.h"
+
+1401231644 source:g:\alquerqe\src\white_pawns.cpp
+	"white_pawns.h"
+
+1401277664 source:g:\alquerqe\src\board.cpp
+	"board.h"
+
+1401234164 source:h:\alquerqe\main.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"game.h"
+
+1401330002 h:\alquerqe\include\board.h
+	"pawns.h"
+	"white_pawns.h"
+	"black_pawns.h"
+	"cords.h"
+	<windows.h>
+	<iostream>
+	<cstring>
+
+1401281058 h:\alquerqe\include\pawns.h
+	<iostream>
+
+1401235028 h:\alquerqe\include\white_pawns.h
+	"pawns.h"
+
+1401280956 h:\alquerqe\include\black_pawns.h
+	"pawns.h"
+	<iostream>
+
+1401326394 h:\alquerqe\include\game.h
+	<windows.h>
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"white_pawns.h"
+
+1401235254 source:h:\alquerqe\src\black_pawns.cpp
+	<iostream>
+	"black_pawns.h"
+
+1401328190 source:h:\alquerqe\src\game.cpp
+	"game.h"
+
+1401233218 source:h:\alquerqe\src\pawns.cpp
+	"pawns.h"
+
+1401235244 source:h:\alquerqe\src\white_pawns.cpp
+	"white_pawns.h"
+
+1401330002 source:h:\alquerqe\src\board.cpp
+	"board.h"
+
+1401325854 h:\alquerqe\include\cords.h
+	<iostream>
+
+1401325854 source:h:\alquerqe\src\cords.cpp
+	"cords.h"
+
+1401230564 source:c:\users\eterdemon\desktop\alquerqe\main.cpp
+	<iostream>
+	<windows.h>
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"game.h"
+
+1401383109 c:\users\eterdemon\desktop\alquerqe\include\board.h
+	"pawns.h"
+	"white_pawns.h"
+	"black_pawns.h"
+	"cords.h"
+	<windows.h>
+	<iostream>
+	<cstring>
+
+1401363324 c:\users\eterdemon\desktop\alquerqe\include\pawns.h
+	"cords.h"
+	<iostream>
+
+1401363323 c:\users\eterdemon\desktop\alquerqe\include\white_pawns.h
+	"pawns.h"
+
+1401363323 c:\users\eterdemon\desktop\alquerqe\include\black_pawns.h
+	"board.h"
+	"pawns.h"
+	<iostream>
+
+1401346872 c:\users\eterdemon\desktop\alquerqe\include\cords.h
+	<iostream>
+
+1401322794 c:\users\eterdemon\desktop\alquerqe\include\game.h
+	<windows.h>
+	"board.h"
+	"pawns.h"
+	"black_pawns.h"
+	"white_pawns.h"
+
+1401363324 source:c:\users\eterdemon\desktop\alquerqe\src\black_pawns.cpp
+	<iostream>
+	"black_pawns.h"
+	"game.h"
+
+1401396193 source:c:\users\eterdemon\desktop\alquerqe\src\board.cpp
+	"board.h"
+
+1401360469 source:c:\users\eterdemon\desktop\alquerqe\src\pawns.cpp
+	"pawns.h"
+
+1401363323 source:c:\users\eterdemon\desktop\alquerqe\src\white_pawns.cpp
+	"white_pawns.h"
+
+1401363955 source:c:\users\eterdemon\desktop\alquerqe\src\cords.cpp
+	"cords.h"
+
+1401362816 source:c:\users\eterdemon\desktop\alquerqe\src\game.cpp
+	"game.h"
+
+1401698379 c:\users\eter\desktop\alquerqe\include\cords.h
+	<iostream>
+
+1401700376 source:c:\users\eter\desktop\alquerqe\src\cords.cpp
+	"cords.h"
+
+1401698379 c:\users\eter\desktop\alquerqe\include\game_vs_player.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cmath>
+	"board.h"
+	"pawns.h"
+	"game.h"
+
+1401699596 source:c:\users\eter\desktop\alquerqe\src\game_vs_player.cpp
+	"game_vs_player.h"
+
+1401699596 source:c:\users\eter\desktop\alquerqe\src\game_vs_pc.cpp
+	"game_vs_pc.h"
+
+1401698379 c:\users\eter\desktop\alquerqe\include\game_vs_pc.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cmath>
+	<vector>
+	"board.h"
+	"pawns.h"
+	"game.h"
+
+1476682026 source:c:\users\eter\desktop\gitreps\alquerque\src\board.cpp
+	"board.h"
+
+1476681949 c:\users\eter\desktop\gitreps\alquerque\include\board.h
+	"pawns.h"
+	"cords.h"
+	<cmath>
+	<windows.h>
+	<vector>
+	<iostream>
+	<cstring>
+
+1476681949 c:\users\eter\desktop\gitreps\alquerque\include\pawns.h
+	"cords.h"
+	<iostream>
+
+1476681949 c:\users\eter\desktop\gitreps\alquerque\include\cords.h
+	<iostream>
+
+1476682114 source:c:\users\eter\desktop\gitreps\alquerque\src\cords.cpp
+	"cords.h"
+
+1476681949 source:c:\users\eter\desktop\gitreps\alquerque\src\game.cpp
+	"game.h"
+
+1476681949 c:\users\eter\desktop\gitreps\alquerque\include\game.h
+	"board.h"
+
+1476682116 source:c:\users\eter\desktop\gitreps\alquerque\src\game_vs_pc.cpp
+	"game_vs_pc.h"
+
+1476681949 c:\users\eter\desktop\gitreps\alquerque\include\game_vs_pc.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cmath>
+	<vector>
+	"board.h"
+	"pawns.h"
+	"game.h"
+
+1476682109 source:c:\users\eter\desktop\gitreps\alquerque\src\game_vs_player.cpp
+	"game_vs_player.h"
+
+1476681949 c:\users\eter\desktop\gitreps\alquerque\include\game_vs_player.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cmath>
+	"board.h"
+	"pawns.h"
+	"game.h"
+
+1476681949 source:c:\users\eter\desktop\gitreps\alquerque\src\pawns.cpp
+	"pawns.h"
+
+1476682184 source:c:\users\eter\desktop\gitreps\alquerque\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cctype>
+	"board.h"
+	"pawns.h"
+	"pawns.h"
+	"game_vs_player.h"
+	"game_vs_pc.h"
+
